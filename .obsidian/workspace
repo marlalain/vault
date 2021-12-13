@@ -7,8 +7,11 @@
         "id": "6d9730b371fc026f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "020 Cheatsheets.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "020 Cheatsheets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "020 Cheatsheets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,17 +111,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "6d9730b371fc026f",
   "lastOpenFiles": [
+    "020 Cheatsheets.md",
     "000 Index.md",
     "010 Roadmaps.md",
     "011 Backend Roadmap.md",
     "Version Control Systems.md",
     "Git.md",
     "Git Cheatsheet.md",
-    "020 Cheatsheets.md",
     "014 Algorithms and Data Structure Roadmap.md",
     "Miscellaneous (ADS Roadmap).md",
     "Dynamic Programming.md"
