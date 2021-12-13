@@ -1,0 +1,5 @@
+- [ ] [[API Authentication]]
+- [ ] [[REST]]
+- [ ] [[JSON APIs]]
+- [ ] [[HATEOAS]]
+- [ ] [[Open API Spec and Swagger]]

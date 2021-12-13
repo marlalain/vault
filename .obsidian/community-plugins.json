@@ -1,3 +1,7 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-outliner",
+  "markdown-prettifier",
+  "obsidian-discordrpc",
+  "obsidian-admonition"
 ]
