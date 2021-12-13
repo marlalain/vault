@@ -1,21 +1,13 @@
 {
   "main": {
-    "id": "11e73c1e9c241346",
+    "id": "ac1518f16da6c1d4",
     "type": "split",
     "children": [
       {
-        "id": "ada7b1f6297e59bd",
+        "id": "6d9730b371fc026f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "8f983628209e7a09",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -95,7 +87,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -114,20 +106,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "8f983628209e7a09",
+  "active": "6d9730b371fc026f",
   "lastOpenFiles": [
-    "003.5 What is domain name.md",
-    "003.2 What is HTTP.md",
-    "003.1 How does the internet work.md",
-    "003.4 DNS and how it works.md",
-    "How does the internet work.md",
-    "003 Internet.md",
-    "002 Backend Roadmap.md",
-    "001 Roadmaps.md",
     "000 Index.md",
-    "004 Basic Frontend Knowledge.md"
+    "010 Roadmaps.md",
+    "011 Backend Roadmap.md",
+    "Version Control Systems.md",
+    "Git.md",
+    "Git Cheatsheet.md",
+    "020 Cheatsheets.md",
+    "014 Algorithms and Data Structure Roadmap.md",
+    "Miscellaneous (ADS Roadmap).md",
+    "Dynamic Programming.md"
   ]
 }

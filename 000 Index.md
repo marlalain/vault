@@ -1,2 +1,3 @@
 ## Index Categories
-- [[001 Roadmaps]]
+- [[010 Roadmaps]]
+- [[020 Cheatsheets]]
