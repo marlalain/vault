@@ -1,5 +1,5 @@
 - [ ] [[Java]]
-- [ ] [[JavaScript]]
+- [x] [[JavaScript]]
 - [ ] [[Go]]
 - [ ] [[Rust]]
 - [ ] [[Kotlin]]

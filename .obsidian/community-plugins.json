@@ -3,5 +3,8 @@
   "obsidian-outliner",
   "markdown-prettifier",
   "obsidian-discordrpc",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "calendar",
+  "table-editor-obsidian",
+  "find-unlinked-files"
 ]

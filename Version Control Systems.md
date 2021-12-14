@@ -1,2 +1,2 @@
-- [ ] [[Git]]
+- [x] [[Git]]
 - [ ] [[Subversion]]

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "020 Cheatsheets.md",
+            "file": "Git Cheatsheet.md",
             "mode": "source"
           }
         }
@@ -37,9 +37,24 @@
         ]
       },
       {
+        "id": "c927d120555fd195",
+        "type": "tabs",
+        "dimension": 36.32596685082873,
+        "children": [
+          {
+            "id": "0ada366166c61f99",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "12d9931fcf4d107d",
         "type": "tabs",
-        "dimension": 72.37569060773481,
+        "dimension": 36.049723756906076,
         "children": [
           {
             "id": "6acb1b1ff17569c6",
@@ -84,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "020 Cheatsheets.md",
+                "file": "Git Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,13 +116,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "020 Cheatsheets.md",
+                "file": "Git Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "c49303099df2a2f5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "20dbb3e353c850ee",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -115,15 +147,15 @@
   },
   "active": "6d9730b371fc026f",
   "lastOpenFiles": [
-    "020 Cheatsheets.md",
-    "000 Index.md",
-    "010 Roadmaps.md",
-    "011 Backend Roadmap.md",
-    "Version Control Systems.md",
-    "Git.md",
     "Git Cheatsheet.md",
-    "014 Algorithms and Data Structure Roadmap.md",
-    "Miscellaneous (ADS Roadmap).md",
-    "Dynamic Programming.md"
+    "REST.md",
+    "Learn about APIs.md",
+    "HATEOAS.md",
+    "011 Backend Roadmap.md",
+    "NoSQL Databases.md",
+    "More about Databases.md",
+    "Relational Databases.md",
+    "Version Control Systems.md",
+    "Learn a Language.md"
   ]
 }

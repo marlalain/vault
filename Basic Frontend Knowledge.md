@@ -1,3 +1,3 @@
-- [ ] [[HTML]]
-- [ ] [[CSS]]
+- [X] [[HTML]]
+- [X] [[CSS]]
 - [ ] [[JavaScript]]
