@@ -7,12 +7,22 @@
         "id": "b183b913b0002d5e",
         "type": "leaf",
         "state": {
+          "type": "graph",
+          "state": {}
+        },
+        "group": "c2e77ccc450fb7fa"
+      },
+      {
+        "id": "ead2b123c005ba38",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
             "file": "HTTP.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "c2e77ccc450fb7fa"
       }
     ],
     "direction": "vertical"
@@ -125,14 +135,14 @@
   "active": "b183b913b0002d5e",
   "lastOpenFiles": [
     "HTTP.md",
-    "Slinky.md",
-    "The case for Slinky.md",
-    "020 Cheatsheets.md",
-    "000 Index.md",
-    "010 Roadmaps.md",
-    "011 Backend Roadmap.md",
-    "Version Control Systems.md",
-    "Git.md",
-    "Git Cheatsheet.md"
+    "HATEOAS.md",
+    "Internet.md",
+    "Hypermedia.md",
+    "REST.md",
+    "Pasted image 20211215031246.png",
+    "What is HTTP.md",
+    "Learn about APIs.md",
+    "How does the internet work.md",
+    "IP Address.md"
   ]
 }
