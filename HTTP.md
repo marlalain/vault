@@ -1,3 +1,4 @@
+# HTTP
 The **Hypertext Transfer Protocol** (**HTTP**) is an [application layer](https://en.wikipedia.org/wiki/Application_layer "Application layer") protocol in the [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite "Internet protocol suite") model for distributed, collaborative, [hypermedia](https://en.wikipedia.org/wiki/Hypermedia "Hypermedia") information systems. HTTP is the foundation of data communication for the [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web "World Wide Web"), where [hypertext](https://en.wikipedia.org/wiki/Hypertext "Hypertext") documents include [hyperlinks](https://en.wikipedia.org/wiki/Hyperlink "Hyperlink") to other resources that the user can easily access, for example by a [mouse](https://en.wikipedia.org/wiki/Computer_mouse "Computer mouse") click or by tapping the screen in a web browser.
 
 ### HTTP/1.0
@@ -21,6 +22,3 @@ In **HTTP/1.1** instead a TCP connection can be reused to make multiple resource
 ### HTTP/3
 
 **[HTTP/3](https://en.wikipedia.org/wiki/HTTP/3 "HTTP/3")** is a revision of previous HTTP/2 in order to use [QUIC](https://en.wikipedia.org/wiki/QUIC "QUIC") + UDP transport protocols instead of TCP/IP connections also to slightly **improve** the average **speed** of communications and to **avoid** the occasional (very rare) problem of TCP/IP connection **[congestion](https://en.wikipedia.org/wiki/TCP_congestion_control "TCP congestion control")** that can temporarily block or slow down the data flow of all its streams (another form of "_head of line blocking_").
-
----
-Related: [[What is HTTP]]

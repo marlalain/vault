@@ -18,3 +18,7 @@ Simplifies and decouples architecture, enabling each part to evolve independentl
 -   Resource manipulation through representations - When a client holds a representation of a resource, including any [metadata](https://en.wikipedia.org/wiki/Metadata "Metadata") attached, it has enough information to modify or delete the resource's state.
 -   Self-descriptive messages - Each message includes enough information to describe how to process the message. For example, which parser to invoke can be specified by a [media type](https://en.wikipedia.org/wiki/Media_type "Media type").
 -   Hypermedia as the engine of application state ([[HATEOAS]]) - Having accessed an initial URI for the REST application—analogous to a human Web user accessing the [home page](https://en.wikipedia.org/wiki/Home_page "Home page") of a website—a REST client should then be able to use server-provided links dynamically to discover all the available resources it needs. As access proceeds, the server responds with text that includes [hyperlinks](https://en.wikipedia.org/wiki/Hyperlink "Hyperlink") to other resources that are currently available. There is no need for the client to be hard-coded with information regarding the structure or dynamics of the application.
+
+---
+
+Related: [[HTTP]], [[HATEOAS]], [[HAL]]
