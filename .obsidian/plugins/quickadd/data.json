@@ -1,0 +1,59 @@
+{
+  "choices": [
+    {
+      "id": "bce1902a-9fb1-4835-8dcd-7ff8c0a41680",
+      "name": "Add to Kanban",
+      "type": "Macro",
+      "command": true,
+      "macroId": "c395e8bf-746d-4d00-94ef-ba132915b575"
+    }
+  ],
+  "macros": [
+    {
+      "name": "Add to Kanban",
+      "id": "c395e8bf-746d-4d00-94ef-ba132915b575",
+      "commands": [
+        {
+          "name": "Kanban Item Title",
+          "type": "NestedChoice",
+          "id": "51a7ae5a-e1a7-4c20-bee3-34072af64354",
+          "choice": {
+            "id": "56db8a59-ee5f-4ca2-8449-8b39b1469ed1",
+            "name": "Kanban Item Title",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "Kanban.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "- [ ] {{VALUE}}\n"
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "## {{VALUE:Backlog,WIP,Done}}",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "preview"
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ]
+}

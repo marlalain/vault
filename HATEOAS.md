@@ -1,5 +1,6 @@
 # HATEOAS
 (or Hypermedia as the Engine of Application State)
+Specified as [[Richardson Maturity Model#Level 3 Hypermedia Controls]]
 
 ---
 
@@ -68,4 +69,4 @@ HTTP/1.1 200 OK
 
 ---
 
-Related: [[HAL]]
+Related: [[HAL]], [[REST]], [[Richardson Maturity Model]]
