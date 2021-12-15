@@ -4,7 +4,9 @@
   "markdown-prettifier",
   "obsidian-discordrpc",
   "obsidian-admonition",
+  "obsidian-hider",
+  "obsidian-minimal-settings",
+  "find-unlinked-files",
   "calendar",
-  "table-editor-obsidian",
-  "find-unlinked-files"
+  "table-editor-obsidian"
 ]

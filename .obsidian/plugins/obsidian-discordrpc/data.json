@@ -2,9 +2,9 @@
   "showVaultName": true,
   "showCurrentFileName": true,
   "showPopups": true,
-  "customVaultName": "",
+  "customVaultName": "github.com/paulo-e/vault",
   "showFileExtension": false,
-  "useLoadedTime": true,
+  "useLoadedTime": false,
   "connectOnStart": true,
   "autoHideStatusBar": true
 }
