@@ -15,3 +15,7 @@ Things that I plan on doing
 ### TV Shows
 
 ### Musics (Bands & Albums)
+
+### Courses
+
+- https://rockthejvm.com/p/membership
