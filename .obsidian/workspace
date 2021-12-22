@@ -4,29 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "428b71e978b1b347",
-        "type": "split",
-        "children": [
-          {
-            "id": "a266274a02b49c6d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            },
-            "group": "050a4869e8a17cab"
-          },
-          {
-            "id": "a332df2daeedc9d2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            },
-            "group": "050a4869e8a17cab"
+        "id": "b183b913b0002d5e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Scala.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -38,7 +24,7 @@
       {
         "id": "eb7f265944d1cdfb",
         "type": "tabs",
-        "dimension": 43.38394793926248,
+        "dimension": 27.624309392265197,
         "children": [
           {
             "id": "69a7b962e0f0e6ca",
@@ -47,22 +33,13 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "0ada366166c61f99",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "12d9931fcf4d107d",
         "type": "tabs",
-        "dimension": 56.61605206073752,
+        "dimension": 72.37569060773481,
         "children": [
           {
             "id": "6acb1b1ff17569c6",
@@ -101,7 +78,6 @@
       {
         "id": "d3021a74f617fafa",
         "type": "tabs",
-        "dimension": 44.73684210526316,
         "children": [
           {
             "id": "fd2cbc2abef8fb01",
@@ -109,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Scala.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,37 +102,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Scala.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c49303099df2a2f5",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "116bf7ae000fcd7d",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "75b2413fba6f1f01",
-        "type": "tabs",
-        "dimension": 55.26315789473685,
-        "children": [
-          {
-            "id": "20dbb3e353c850ee",
+            "id": "2efd8adb87fed502",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -169,17 +123,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a266274a02b49c6d",
+  "active": "b183b913b0002d5e",
   "lastOpenFiles": [
-    "Buy.md",
-    "Remember.md",
-    "TODO.md",
-    "Work In Progress.md",
+    "Scala.md",
+    "020 Cheatsheets.md",
+    "cURL Cheatsheet.md",
     "REST.md",
-    "Kanban.md",
-    "todo 1.md",
-    "kanban.md",
-    "Hypermedia.md",
-    "tasks/12-21.md"
+    "Java.md",
+    "Open-Source.md",
+    "011 Backend Roadmap.md",
+    "[[.md",
+    "Code Review.md",
+    "HTTP.md"
   ]
 }

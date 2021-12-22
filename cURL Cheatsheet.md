@@ -1,0 +1,3 @@
+## Arguments
+
+`-L` follows redirects

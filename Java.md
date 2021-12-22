@@ -1,4 +1,4 @@
 ---
 ---
 
-Related: [[012 Java Roadmap]]
+Related: [[012 Java Roadmap]], [[Scala]]
