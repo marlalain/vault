@@ -3,5 +3,10 @@
   "promptDelete": false,
   "foldHeading": true,
   "foldIndent": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": false,
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "Cacheability"
+  ]
 }

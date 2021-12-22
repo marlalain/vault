@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Code Review.md",
+            "file": "Scala.md",
             "mode": "preview"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Review.md",
+                "file": "Scala.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Review.md",
+                "file": "Scala.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,15 +125,15 @@
   },
   "active": "b183b913b0002d5e",
   "lastOpenFiles": [
-    "Code Review.md",
-    "HTTP.md",
-    "[[.md",
-    "Slinky.md",
-    "The case for Slinky.md",
+    "Scala.md",
     "020 Cheatsheets.md",
-    "000 Index.md",
-    "010 Roadmaps.md",
+    "cURL Cheatsheet.md",
+    "REST.md",
+    "Java.md",
+    "Open-Source.md",
     "011 Backend Roadmap.md",
-    "Version Control Systems.md"
+    "[[.md",
+    "Code Review.md",
+    "HTTP.md"
   ]
 }
