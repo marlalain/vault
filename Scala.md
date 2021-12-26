@@ -1,3 +1,10 @@
+Before Scala, learn the basics of [[Functional Programing]].
+
+## Table of Contents
+
+- [[Akka Framework]]
+- [[Play Framework]]
+
 # [Why learn Scala?](https://youtu.be/-xRfJcwhy7A?t=175)
 
 - Cutting edge research language

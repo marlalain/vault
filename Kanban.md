@@ -7,11 +7,13 @@ kanban-plugin: basic
 ## Backlog
 
 - [ ] read restful web services
-- [ ] read rest paper
+- [ ] Spring Reactive Web
 
 
 ## WIP
 
+- [ ] [[RabbitMQ]]
+- [ ] read rest paper
 
 
 ## Done

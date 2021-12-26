@@ -1,3 +1,6 @@
+- Memoization
+- Tabulation
+
 - [ ] [[Recursion]]
 - [ ] [[Longest Common Subsequence]]
 - [ ] [[Logest Increaing Subsequence]]

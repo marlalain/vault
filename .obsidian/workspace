@@ -1,16 +1,15 @@
 {
   "main": {
-    "id": "ac1518f16da6c1d4",
+    "id": "112e32cd40055fa8",
     "type": "split",
     "children": [
       {
-        "id": "b183b913b0002d5e",
+        "id": "4f5be722fd4f6e2c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Scala.md",
-            "mode": "preview"
+            "file": "Kanban.md"
           }
         }
       }
@@ -24,7 +23,7 @@
       {
         "id": "eb7f265944d1cdfb",
         "type": "tabs",
-        "dimension": 27.624309392265197,
+        "dimension": 43.38394793926248,
         "children": [
           {
             "id": "69a7b962e0f0e6ca",
@@ -33,13 +32,22 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "0ada366166c61f99",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "12d9931fcf4d107d",
         "type": "tabs",
-        "dimension": 72.37569060773481,
+        "dimension": 56.61605206073752,
         "children": [
           {
             "id": "6acb1b1ff17569c6",
@@ -78,6 +86,7 @@
       {
         "id": "d3021a74f617fafa",
         "type": "tabs",
+        "dimension": 44.73684210526316,
         "children": [
           {
             "id": "fd2cbc2abef8fb01",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scala.md",
+                "file": "Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,14 +111,37 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scala.md",
+                "file": "Kanban.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "2efd8adb87fed502",
+            "id": "c49303099df2a2f5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "116bf7ae000fcd7d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "75b2413fba6f1f01",
+        "type": "tabs",
+        "dimension": 55.26315789473685,
+        "children": [
+          {
+            "id": "20dbb3e353c850ee",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -120,20 +152,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "b183b913b0002d5e",
+  "active": "4f5be722fd4f6e2c",
   "lastOpenFiles": [
+    "Kanban.md",
+    "RabbitMQ.md",
+    "000 Index.md",
+    "What to Learn Next.md",
+    "010 Roadmaps.md",
+    "README.md",
     "Scala.md",
-    "020 Cheatsheets.md",
-    "cURL Cheatsheet.md",
-    "REST.md",
-    "Java.md",
-    "Open-Source.md",
-    "011 Backend Roadmap.md",
-    "[[.md",
-    "Code Review.md",
-    "HTTP.md"
+    "Play Framework.md",
+    "Java Collection Framework.md",
+    "Data Structures.md"
   ]
 }

@@ -9,5 +9,6 @@
   "find-unlinked-files",
   "quickadd",
   "templater-obsidian",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-minimal-settings"
 ]

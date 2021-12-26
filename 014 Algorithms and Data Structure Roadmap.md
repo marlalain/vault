@@ -2,9 +2,8 @@
 - [ ] [[Algorithms]]
 - [ ] [[Mathematics]]
 - [ ] [[Dynamic Programming]]
+- [ ] [[Complexity Analysis]]
 - [ ] Miscellaneous
-	- [ ] [[Time Complexity]]
-	- [ ] [[Space Complexity]]
 	- [ ] [[Fast Input Output (IO)]]
 
 ---
