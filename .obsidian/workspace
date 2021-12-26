@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "4f5be722fd4f6e2c",
+        "id": "14cdd12f4f7d8928",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Kanban.md"
+            "file": "Internet.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban.md",
+                "file": "Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban.md",
+                "file": "Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,8 +156,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4f5be722fd4f6e2c",
+  "active": "14cdd12f4f7d8928",
   "lastOpenFiles": [
+    "Internet.md",
     "Kanban.md",
     "RabbitMQ.md",
     "000 Index.md",
@@ -164,7 +167,6 @@
     "README.md",
     "Scala.md",
     "Play Framework.md",
-    "Java Collection Framework.md",
-    "Data Structures.md"
+    "Java Collection Framework.md"
   ]
 }
