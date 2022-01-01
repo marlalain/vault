@@ -7,10 +7,8 @@
         "id": "4f5be722fd4f6e2c",
         "type": "leaf",
         "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Kanban.md"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -94,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,15 +152,15 @@
   },
   "active": "4f5be722fd4f6e2c",
   "lastOpenFiles": [
+    "Privacidade.md",
+    "TODO Cloud.md",
     "Kanban.md",
-    "RabbitMQ.md",
+    "Go.md",
+    "bullets.md",
+    "030 Projects.md",
     "000 Index.md",
-    "What to Learn Next.md",
-    "010 Roadmaps.md",
-    "README.md",
-    "Scala.md",
-    "Play Framework.md",
-    "Java Collection Framework.md",
-    "Data Structures.md"
+    "Learn a Language.md",
+    "011 Backend Roadmap.md",
+    "010 Roadmaps.md"
   ]
 }

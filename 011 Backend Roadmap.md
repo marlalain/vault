@@ -1,7 +1,7 @@
 - [ ] [[Internet]]
 - [ ] [[Basic Frontend Knowledge]]
 - [ ] [[OS and General Knowledge]]
-- [ ] [[Learn a Language]]
+- [x] [[Learn a Language]]
 - [ ] [[Version Control Systems]]
 - [ ] [[Repo Hosting Services]]
 - [ ] [[Relational Databases]]

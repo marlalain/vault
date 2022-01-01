@@ -1,0 +1,5 @@
+- [ ] Oracle Cloud
+- [ ] AWS
+- [ ] MongoDB Atlas
+- [ ] Azure
+- [ ] DigitalOcean
