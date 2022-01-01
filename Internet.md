@@ -25,3 +25,7 @@ The **Internet** (or **internet**) is the global system of interconnected [compu
 - [[Browsers and how they work]]
 - [[DNS and how it works]]
 - [[What is hosting]]
+
+---
+
+Related: [Internet History, Technology, and Security - Full Course from Dr. Chuck](https://www.youtube.com/watch?v=47NRaBVxgVM)
