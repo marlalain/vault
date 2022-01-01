@@ -2,8 +2,11 @@ Before Scala, learn the basics of [[Functional Programing]].
 
 ## Table of Contents
 
-- [[Akka Framework]]
-- [[Play Framework]]
+- Frameworks
+	- [[Akka Framework]]
+	- [[Play Framework]]
+- Courses
+	- [x] [Scala at Light Speed](https://www.youtube.com/playlist?list=PLmtsMNDRU0BxryRX4wiwrTZ661xcp6VPM)
 
 # [Why learn Scala?](https://youtu.be/-xRfJcwhy7A?t=175)
 
@@ -45,4 +48,4 @@ Before Scala, learn the basics of [[Functional Programing]].
 
 ---
 
-Related: [Scala Crash Course by a Scala veteran \(with some JavaScript flavor)](https://youtu.be/-xRfJcwhy7A)
+Related: [Scala Crash Course by a Scala veteran \(with some JavaScript flavor)](https://youtu.be/-xRfJcwhy7A), [Scala isn't Hard: How to Master Scala](https://scalac.io/blog/scala-isnt-hard-how-to-master-scala-step-by-step/)

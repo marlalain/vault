@@ -16,10 +16,12 @@ kanban-plugin: basic
 
 ## WIP
 
+- [ ] create websocket client
 - [ ] [[RabbitMQ]]
 - [ ] read rest paper
 - [ ] [[Go#^j4qc6fyom|Microservices and Go]]
 - [ ] [[TODO Cloud]]
+- [ ] [[Scala]]
 
 
 ## Done
