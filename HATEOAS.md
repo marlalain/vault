@@ -66,7 +66,7 @@ HTTP/1.1 200 OK
     }
 }
 ```
-
+j
 ---
 
 Related: [[HAL]], [[REST]], [[Richardson Maturity Model]]

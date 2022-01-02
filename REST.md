@@ -48,4 +48,4 @@ Simplifies and decouples architecture, enabling each part to evolve independentl
 
 ---
 
-Related: [[HTTP]], [[HATEOAS]], [[HAL]], [REST Cookbook](https://restcookbook.com/), [[Richardson Maturity Model]]
+Related: [[HTTP]], [[HATEOAS]], [[HAL]], [REST Cookbook](https://restcookbook.com/), [[Richardson Maturity Model]], [[Client Server Communication]]

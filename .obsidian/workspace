@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "14cdd12f4f7d8928",
+        "id": "f43973f2caaca7ff",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Kanban.md"
+            "file": "Richardson Maturity Model.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban.md",
+                "file": "Richardson Maturity Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban.md",
+                "file": "Richardson Maturity Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,17 +156,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "14cdd12f4f7d8928",
+  "active": "f43973f2caaca7ff",
   "lastOpenFiles": [
-    "Kanban.md",
-    "Scala.md",
-    "Play Framework.md",
-    "Internet.md",
-    "RabbitMQ.md",
-    "000 Index.md",
-    "What to Learn Next.md",
-    "010 Roadmaps.md",
-    "README.md",
-    "Java Collection Framework.md"
+    "Richardson Maturity Model.md",
+    "HATEOAS.md",
+    "REST.md",
+    "Go.md",
+    "gRPC.md",
+    "Redis.md",
+    "Client Server Communication.md",
+    "TCP IP.md",
+    "Websockets.md",
+    "Protocol Buffers.md"
   ]
 }
