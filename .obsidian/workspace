@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Richardson Maturity Model.md",
-            "mode": "preview",
+            "file": "Elasticsearch.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Richardson Maturity Model.md",
+                "file": "Elasticsearch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Richardson Maturity Model.md",
+                "file": "Elasticsearch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,15 +158,15 @@
   },
   "active": "f43973f2caaca7ff",
   "lastOpenFiles": [
-    "Richardson Maturity Model.md",
-    "HATEOAS.md",
-    "REST.md",
-    "Go.md",
-    "gRPC.md",
-    "Redis.md",
-    "Client Server Communication.md",
-    "TCP IP.md",
-    "Websockets.md",
-    "Protocol Buffers.md"
+    "Elasticsearch.md",
+    "Kanban.md",
+    "Internet.md",
+    "011 Backend Roadmap.md",
+    "Learn a Language.md",
+    "Scala.md",
+    "012 Java Roadmap.md",
+    "010 Roadmaps.md",
+    "014 Algorithms and Data Structure Roadmap.md",
+    "Complexity Analysis.md"
   ]
 }

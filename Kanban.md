@@ -25,6 +25,7 @@ kanban-plugin: basic
 
 
 ## Done
+- [ ] resolver GET listing slinky
 
 **Complete**
 

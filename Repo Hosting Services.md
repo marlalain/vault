@@ -1,3 +1,3 @@
-- [ ] [[GitHub]]
-- [ ] [[GitLab]]
+- [x] [[GitHub]]
+- [x] [[GitLab]]
 - [ ] [[BitBucket]]
