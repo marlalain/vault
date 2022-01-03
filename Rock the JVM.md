@@ -4,6 +4,7 @@ Rock the JVM Courses
 - [X] [Scala at Light Speed](https://www.youtube.com/playlist?list=PLmtsMNDRU0BxryRX4wiwrTZ661xcp6VPM)
 - [ ] [[Scala]] & [[Functional Programming]] Essentials
 - [ ] Advanced [[Scala]] and Functional Programming
+	- "Call By Name" ( `=>` )
 - [ ] [[Scala]] & FP Interview Practice (Not in Udemy)
 
 ## Typelevel
