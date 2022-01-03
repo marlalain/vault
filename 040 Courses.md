@@ -1,1 +1,4 @@
 - [[AWS Cloud Practitioner Essentials]]
+- Rock the JVM
+	- [[Akka Framework]]
+		- [[Akka Essentials with Scala]]

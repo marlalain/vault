@@ -15,6 +15,7 @@ kanban-plugin: basic
 
 ## WIP
 
+- [ ] [[Akka Essentials with Scala]]
 - [ ] [[slinky]]-cli
 - [ ] [[go]] templates https://pkg.go.dev/text/template#Template.Execute
 - [ ] create websocket client

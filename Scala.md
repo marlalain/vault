@@ -6,7 +6,7 @@ Before Scala, learn the basics of [[Functional Programing]].
 	- [[Akka Framework]]
 	- [[Play Framework]]
 - Courses
-	- [x] [Scala at Light Speed](https://www.youtube.com/playlist?list=PLmtsMNDRU0BxryRX4wiwrTZ661xcp6VPM)
+	- [[Rock the JVM]]
 
 # [Why learn Scala?](https://youtu.be/-xRfJcwhy7A?t=175)
 
@@ -46,6 +46,12 @@ Before Scala, learn the basics of [[Functional Programing]].
 - dotc (Compiler)
 - Giter8 (Template Manager)
 
+### Scala Implicits
+
+- Local scope
+- Imported scope
+- Companion objects of the types included in the call
+
 ---
 
-Related: [Scala Crash Course by a Scala veteran \(with some JavaScript flavor)](https://youtu.be/-xRfJcwhy7A), [Scala isn't Hard: How to Master Scala](https://scalac.io/blog/scala-isnt-hard-how-to-master-scala-step-by-step/)
+Related: [Scala Crash Course by a Scala veteran \(with some [[JavaScript]] flavor)](https://youtu.be/-xRfJcwhy7A), [Scala isn't Hard: How to Master Scala](https://scalac.io/blog/scala-isnt-hard-how-to-master-scala-step-by-step/)
