@@ -115,7 +115,7 @@
               "type": "outgoing-link",
               "state": {
                 "file": "Rock the JVM.md",
-                "linksCollapsed": true,
+                "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -161,14 +161,14 @@
   "active": "f43973f2caaca7ff",
   "lastOpenFiles": [
     "Rock the JVM.md",
+    "daily/2022-01-03.md",
+    "011 Backend Roadmap.md",
     "Scala.md",
+    "Knowledge.md",
+    "Akka Framework.md",
     "Akka Essentials with Scala.md",
     "Kanban.md",
     "040 Courses.md",
-    "Slinky.md",
-    "The case for Slinky.md",
-    "AWS Cloud Practitioner Essentials.md",
-    "Amazon Apps.md",
-    "000 Index.md"
+    "Slinky.md"
   ]
 }

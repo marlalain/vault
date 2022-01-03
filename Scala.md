@@ -54,4 +54,4 @@ Before Scala, learn the basics of [[Functional Programing]].
 
 ---
 
-Related: [Scala Crash Course by a Scala veteran \(with some [[JavaScript]] flavor)](https://youtu.be/-xRfJcwhy7A), [Scala isn't Hard: How to Master Scala](https://scalac.io/blog/scala-isnt-hard-how-to-master-scala-step-by-step/)
+Related: [Scala Crash Course by a Scala veteran \(with some JavaScript flavor)](https://youtu.be/-xRfJcwhy7A), [Scala isn't Hard: How to Master Scala](https://scalac.io/blog/scala-isnt-hard-how-to-master-scala-step-by-step/)

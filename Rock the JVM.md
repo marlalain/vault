@@ -2,9 +2,9 @@ Rock the JVM Courses
 
 ## Scala
 - [X] [Scala at Light Speed](https://www.youtube.com/playlist?list=PLmtsMNDRU0BxryRX4wiwrTZ661xcp6VPM)
-- [ ] Scala & [[Functional Programming]] Essentials
+- [ ] [[Scala]] & [[Functional Programming]] Essentials
 - [ ] Advanced [[Scala]] and Functional Programming
-- [ ] Scala & FP Interview Practice (Not in Udemy)
+- [ ] [[Scala]] & FP Interview Practice (Not in Udemy)
 
 ## Typelevel
 - [ ] Cats (Not in Udemy)
@@ -20,6 +20,6 @@ Rock the JVM Courses
 - [ ] Akka Essentials
 - [ ] Akka Persistence
 - [ ] Akka Streams
-- [ ] Akka HTTP
+- [ ] Akka [[HTTP]]
 - [ ] Akka Remoting and Clustering
-- [ ] Akka Serialization
+- [ ] Akka [[Serialization]]
