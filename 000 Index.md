@@ -3,4 +3,5 @@
 - [[010 Roadmaps]]
 - [[020 Cheatsheets]]
 - [[030 Projects]]
+- [[040 Courses]]
 - [[090 Music]]

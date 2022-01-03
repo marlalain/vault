@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Elasticsearch.md",
+            "file": "Amazon Apps.md",
             "mode": "source",
             "source": false
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elasticsearch.md",
+                "file": "Amazon Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elasticsearch.md",
+                "file": "Amazon Apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,15 +158,15 @@
   },
   "active": "f43973f2caaca7ff",
   "lastOpenFiles": [
-    "Elasticsearch.md",
-    "Kanban.md",
-    "Internet.md",
-    "011 Backend Roadmap.md",
-    "Learn a Language.md",
-    "Scala.md",
-    "012 Java Roadmap.md",
-    "010 Roadmaps.md",
-    "014 Algorithms and Data Structure Roadmap.md",
-    "Complexity Analysis.md"
+    "Amazon Apps.md",
+    "AWS Cloud Practitioner Essentials.md",
+    "040 Courses.md",
+    "000 Index.md",
+    "daily/2022-01-02.md",
+    "Java Web Frameworks.md",
+    "Spring Boot.md",
+    "giro.md",
+    "bullets.md",
+    "030 Projects.md"
   ]
 }

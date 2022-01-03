@@ -2,3 +2,5 @@
 - [ ] [[Spring Boot]]
 - [ ] [[Play Framework]]
 - [ ] [[Spark]]
+- [ ] [[Quarkus]]
+- [ ] [[Micronaut]]
