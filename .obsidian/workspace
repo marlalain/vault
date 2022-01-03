@@ -7,9 +7,11 @@
         "id": "f43973f2caaca7ff",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Kanban.md"
+            "file": "Slinky.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban.md",
+                "file": "Slinky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,8 +114,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban.md",
-                "linksCollapsed": false,
+                "file": "Slinky.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -134,7 +136,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "75b2413fba6f1f01",
@@ -157,6 +160,8 @@
   },
   "active": "f43973f2caaca7ff",
   "lastOpenFiles": [
+    "Slinky.md",
+    "The case for Slinky.md",
     "Kanban.md",
     "AWS Cloud Practitioner Essentials.md",
     "Amazon Apps.md",
@@ -164,8 +169,6 @@
     "000 Index.md",
     "daily/2022-01-02.md",
     "Java Web Frameworks.md",
-    "Spring Boot.md",
-    "giro.md",
-    "bullets.md"
+    "Spring Boot.md"
   ]
 }
