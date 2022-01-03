@@ -7,11 +7,9 @@
         "id": "f43973f2caaca7ff",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Amazon Apps.md",
-            "mode": "source",
-            "source": false
+            "file": "Kanban.md"
           }
         }
       }
@@ -74,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Apps.md",
+                "file": "Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Apps.md",
+                "file": "Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,15 +157,15 @@
   },
   "active": "f43973f2caaca7ff",
   "lastOpenFiles": [
-    "Amazon Apps.md",
+    "Kanban.md",
     "AWS Cloud Practitioner Essentials.md",
+    "Amazon Apps.md",
     "040 Courses.md",
     "000 Index.md",
     "daily/2022-01-02.md",
     "Java Web Frameworks.md",
     "Spring Boot.md",
     "giro.md",
-    "bullets.md",
-    "030 Projects.md"
+    "bullets.md"
   ]
 }

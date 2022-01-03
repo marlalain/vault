@@ -16,6 +16,7 @@ kanban-plugin: basic
 
 ## WIP
 
+- [ ] go templates https://pkg.go.dev/text/template#Template.Execute
 - [ ] create websocket client
 - [ ] [[RabbitMQ]]
 - [ ] read rest paper
@@ -25,9 +26,8 @@ kanban-plugin: basic
 
 
 ## Done
-- [ ] resolver GET listing slinky
 
-**Complete**
+- [ ] resolver GET listing slinky
 
 
 

@@ -1,6 +1,6 @@
 ---
 date created: 2022-01-02 22:08
-date updated: 2022-01-02 22:08
+date updated: 2022-01-02 22:10
 ---
 
 # Servers
@@ -10,6 +10,7 @@ date updated: 2022-01-02 22:08
 # Serverless
 
 - AWS Lambda
+- AWS Kargate
 
 # Container orchestration tools
 
