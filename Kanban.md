@@ -15,13 +15,13 @@ kanban-plugin: basic
 
 ## WIP
 
+- [ ] [[TODO Cloud]]
 - [ ] [[slinky]]-cli
-- [ ] [[go]] templates https://pkg.go.dev/text/template#Template.Execute
+- [ ] [[go]] templates
 - [ ] create websocket client
 - [ ] [[RabbitMQ]]
 - [ ] read [[rest]] paper
 - [ ] [[Go#^j4qc6fyom|Microservices and Go]]
-- [ ] [[TODO Cloud]]
 - [ ] [[Scala]]
 
 

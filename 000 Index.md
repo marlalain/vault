@@ -5,3 +5,4 @@
 - [[030 Projects]]
 - [[040 Courses]]
 - [[090 Music]]
+- [[999 Wishlist]]

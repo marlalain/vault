@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Slinky.md",
+            "file": "Kotlin and Java Code Generation.md",
             "mode": "preview",
             "source": false
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slinky.md",
+                "file": "Kotlin and Java Code Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slinky.md",
+                "file": "Kotlin and Java Code Generation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -160,15 +160,15 @@
   },
   "active": "f43973f2caaca7ff",
   "lastOpenFiles": [
-    "Slinky.md",
-    "The case for Slinky.md",
+    "Kotlin and Java Code Generation.md",
+    "Kotlin.md",
+    "Data Structures.md",
+    "JPA.md",
+    "Linked Lists.md",
+    "Redis.md",
     "Kanban.md",
-    "AWS Cloud Practitioner Essentials.md",
-    "Amazon Apps.md",
-    "040 Courses.md",
-    "000 Index.md",
-    "daily/2022-01-02.md",
-    "Java Web Frameworks.md",
-    "Spring Boot.md"
+    "TODO Cloud.md",
+    "999 Wishlist.md",
+    "000 Index.md"
   ]
 }

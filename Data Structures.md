@@ -1,14 +1,14 @@
 # What are Data Structures?
 
-- [ ] [[Arrays]]
+- [x] [[Arrays]]
 - [ ] [[Vectors]]
-- [ ] [[Sets]]
+- [x] [[Sets]]
 - [ ] [[Maps]]
 - [ ] [[Pairs]]
-- [ ] [[Linked Lists]]
+- [x] [[Linked Lists]]
 - [ ] [[Stacks]]
 - [ ] [[Queues]]
-- [ ] [[Strings]]
+- [x] [[Strings]]
 - [ ] [[Trees]]
 - [ ] [[Hash]]
 - [ ] [[Heap]]
