@@ -16,7 +16,10 @@ kanban-plugin: basic
 ## WIP
 
 - [ ] [[Akka Essentials with Scala]]
+<<<<<<< HEAD
 - [ ] [[TODO Cloud]]
+=======
+>>>>>>> main
 - [ ] [[slinky]]-cli
 - [ ] [[go]] templates
 - [ ] create websocket client

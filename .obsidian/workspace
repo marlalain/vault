@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Kotlin and Java Code Generation.md",
+=======
+            "file": "Rock the JVM.md",
+>>>>>>> main
             "mode": "preview",
             "source": false
           }
@@ -105,7 +109,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Kotlin and Java Code Generation.md",
+=======
+                "file": "Rock the JVM.md",
+>>>>>>> main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,8 +130,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Kotlin and Java Code Generation.md",
                 "linksCollapsed": true,
+=======
+                "file": "Rock the JVM.md",
+                "linksCollapsed": false,
+>>>>>>> main
                 "unlinkedCollapsed": false
               }
             }
@@ -168,6 +181,7 @@
   },
   "active": "f43973f2caaca7ff",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Kotlin and Java Code Generation.md",
     "conflict-files-obsidian-git.md",
     "Kotlin.md",
@@ -178,5 +192,17 @@
     "Kanban.md",
     "TODO Cloud.md",
     "999 Wishlist.md"
+=======
+    "Rock the JVM.md",
+    "daily/2022-01-03.md",
+    "011 Backend Roadmap.md",
+    "Scala.md",
+    "Knowledge.md",
+    "Akka Framework.md",
+    "Akka Essentials with Scala.md",
+    "Kanban.md",
+    "040 Courses.md",
+    "Slinky.md"
+>>>>>>> main
   ]
 }
