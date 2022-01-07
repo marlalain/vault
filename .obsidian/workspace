@@ -14,6 +14,14 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "8a9506667c5a1f06",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -161,6 +169,7 @@
   "active": "f43973f2caaca7ff",
   "lastOpenFiles": [
     "Kotlin and Java Code Generation.md",
+    "conflict-files-obsidian-git.md",
     "Kotlin.md",
     "Data Structures.md",
     "JPA.md",
@@ -168,7 +177,6 @@
     "Redis.md",
     "Kanban.md",
     "TODO Cloud.md",
-    "999 Wishlist.md",
-    "000 Index.md"
+    "999 Wishlist.md"
   ]
 }

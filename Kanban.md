@@ -15,6 +15,7 @@ kanban-plugin: basic
 
 ## WIP
 
+- [ ] [[Akka Essentials with Scala]]
 - [ ] [[TODO Cloud]]
 - [ ] [[slinky]]-cli
 - [ ] [[go]] templates
